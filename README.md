@@ -1,1 +1,3 @@
-# tictactoe2
+# tictactoe
+
+## Only a Simple Game 
